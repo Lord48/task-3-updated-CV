@@ -1,0 +1,78 @@
+{
+  "education": [
+    {
+      "school": "Grundskola",
+      "location": "Lidköping/Göteborg",
+      "years": "2002 - 2012",
+      "description": "Gick i grundskola både i Lidköping och Göteborg"
+    },
+    {
+      "school": "Dela Gardie Gymnasiet",
+      "location": "Lidköping",
+      "years": "2012 - 2015",
+      "description": "Gick i gymnasiet i Lidköping"
+    },
+    {
+      "school": "Movant",
+      "location": "Skövde",
+      "years": "2020",
+      "description": "Studerade till målare"
+    },
+    {
+      "school": "Borås Yrkeshögskola",
+      "location": "Borås",
+      "years": "2025 -",
+      "description": "Studerar till Frontendutvecklare"
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "Dafgårds",
+      "location": "Källby",
+      "years": "Juli 2015 - Nov 2015",
+      "role": "Produktion & Packning"
+    },
+    {
+      "company": "Arla",
+      "location": "Götene",
+      "years": "Juni 2017 - Aug 2017",
+      "role": "Truckförare"
+    },
+    {
+      "company": "Regionservice",
+      "location": "Lidköping",
+      "years": "Jan 2018 - Aug 2018",
+      "role": "Lokalvårdare"
+    },
+    {
+      "company": "Fazer",
+      "location": "Lidköping",
+      "years": "Sep 2018 - Jan 2019",
+      "role": "Truckförare"
+    },
+    {
+      "company": "Recoport",
+      "location": "Lidköping",
+      "years": "Jan 2021 - Maj 2021",
+      "role": "Montering"
+    },
+    {
+      "company": "Fazer",
+      "location": "Lidköping",
+      "years": "Juni 2021 - Sep 2021",
+      "role": "Lagerarbetare"
+    },
+    {
+      "company": "Nolato Gota",
+      "location": "Götene",
+      "years": "Okt 2021 - Feb 2022",
+      "role": "Maskinoperatör"
+    },
+    {
+      "company": "Semper",
+      "location": "Götene",
+      "years": "Maj 2022 - Sep 2022",
+      "role": "Maskinoperatör"
+    }
+  ]
+}
